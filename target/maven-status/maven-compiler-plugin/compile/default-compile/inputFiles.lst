@@ -1,0 +1,10 @@
+/workspaces/juego-lucha-patrones/src/main/java/com/juego/juego/JuegoLucha.java
+/workspaces/juego-lucha-patrones/src/main/java/com/juego/juego/Main.java
+/workspaces/juego-lucha-patrones/src/main/java/com/juego/model/Personaje.java
+/workspaces/juego-lucha-patrones/src/main/java/com/juego/model/PersonajeBase.java
+/workspaces/juego-lucha-patrones/src/main/java/com/juego/patrones/decorator/EscudoDecorador.java
+/workspaces/juego-lucha-patrones/src/main/java/com/juego/patrones/decorator/PersonajeDecorador.java
+/workspaces/juego-lucha-patrones/src/main/java/com/juego/patrones/decorator/VenenoDecorador.java
+/workspaces/juego-lucha-patrones/src/main/java/com/juego/patrones/strategy/AtaqueFuerte.java
+/workspaces/juego-lucha-patrones/src/main/java/com/juego/patrones/strategy/AtaqueNormal.java
+/workspaces/juego-lucha-patrones/src/main/java/com/juego/patrones/strategy/EstrategiaAtaque.java

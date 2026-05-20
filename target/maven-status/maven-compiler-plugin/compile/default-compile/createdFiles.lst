@@ -1,0 +1,10 @@
+com/juego/patrones/strategy/AtaqueFuerte.class
+com/juego/juego/Main.class
+com/juego/model/Personaje.class
+com/juego/patrones/decorator/VenenoDecorador.class
+com/juego/model/PersonajeBase.class
+com/juego/patrones/decorator/EscudoDecorador.class
+com/juego/patrones/strategy/EstrategiaAtaque.class
+com/juego/juego/JuegoLucha.class
+com/juego/patrones/decorator/PersonajeDecorador.class
+com/juego/patrones/strategy/AtaqueNormal.class
